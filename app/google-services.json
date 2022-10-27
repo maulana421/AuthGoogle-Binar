@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "333025507291",
+    "project_id": "tugas-bf451",
+    "storage_bucket": "tugas-bf451.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333025507291:android:d8fdca24e8200552f059fe",
+        "android_client_info": {
+          "package_name": "com.solanacode.authgoggle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333025507291-1cqtbuig54eilu1hd6egdjn2pd49fhij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.solanacode.authgoggle",
+            "certificate_hash": "422e419ae3deebe8a6a77556e0d450360b97983b"
+          }
+        },
+        {
+          "client_id": "333025507291-uvpcmftc114mn5e7aro2kq0cr0bvfbtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2cG44Ufh-YIqx-G2-k0V4zQBeXJxTAk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333025507291-uvpcmftc114mn5e7aro2kq0cr0bvfbtn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
